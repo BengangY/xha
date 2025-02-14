@@ -67,6 +67,7 @@
 #include <pthread.h>
 #include <sched.h>
 #include <sys/mman.h>
+#include <sys/syscall.h>
 
 #include "log.h"
 #include "mtcerrno.h"
